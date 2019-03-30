@@ -22,6 +22,12 @@ Activate the environment:
 source ./venv/Scripts/activate
 ```
 
+Add the path to your csv data to the environment:
+
+```
+export CSV_PATH=YOUR_CSV_PATH
+```
+
 Install dependencies:
 
 ```
